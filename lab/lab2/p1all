@@ -1,0 +1,34 @@
+ababcabc
+Token 1 found 
+Token 1 found 
+Token 2 found 
+Token 1 found 
+Token 2 found 
+
+aba  b ab bbbba
+Token 1 found 
+a  Token 1 found 
+ Token 1 found 
+ Token 1 found 
+Token 1 found 
+Token 1 found 
+Token 1 found 
+a
+ababab     bbbba
+Token 1 found 
+Token 1 found 
+Token 1 found 
+     Token 1 found 
+Token 1 found 
+Token 1 found 
+Token 1 found 
+a
+abababbbbba
+Token 1 found 
+Token 1 found 
+Token 1 found 
+Token 1 found 
+Token 1 found 
+Token 1 found 
+Token 1 found 
+a

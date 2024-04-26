@@ -1,0 +1,93 @@
+Keyword found int
+ ID found main
+Leftpar found 
+Rightpar found )
+Leftpar found 
+
+Keyword found int
+ ID found i
+Delimiter found ,
+ID found j
+Delimiter found ,
+ID found sum
+Delimiter found ;
+
+Keyword found float
+ ID found x
+Delimiter found ,
+ID found y
+Delimiter found ;
+
+ID found i
+Assiglop =
+arithmetic operator -
+Integer found 103
+Delimiter found ;
+ID found j
+Assiglop =
+Integer found 411
+Delimiter found ;
+ID found sum
+Assiglop =
+Integer found 0
+Delimiter found ;
+
+ID found x
+Assiglop =
+arithmetic operator -
+Decimal found 2.35
+Delimiter found ;
+ID found y
+Assiglop =
+Integer found 1
+ID found e
+arithmetic operator -
+Integer found 3
+Delimiter found ;
+
+Keyword found if
+ Leftpar found 
+ID found i
+Relop <=
+ID found j
+Rightpar found )
+ ID found sum
+ Assiglop -=
+ID found i
+Delimiter found ;
+
+Keyword found else
+ ID found sum
+Assiglop +=
+ID found j
+Delimiter found ;
+
+ID found x
+Assiglop =
+Decimal found 2.5
+MULTIPLICATIVE operator *
+ID found x
+arithmetic operator +
+ID found y
+Delimiter found ;
+
+Keyword found return
+ Integer found 0
+Delimiter found ;
+
+Rightpar found }
+
+keywords 6 
+Hexadecimal 0
+ID 21
+Octal 0
+Integer 6
+Decimal 2
+Relop 1
+MULTIPLICATIVE 1
+arithmetic 4
+bitwise 0
+Assiglop 8
+Leftpar 3
+Rightpar 3
+Delimiter 14
